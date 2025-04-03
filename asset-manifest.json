@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/function-over-form/static/css/main.c45f84db.css",
+    "main.js": "/function-over-form/static/js/main.a48877ec.js",
+    "index.html": "/function-over-form/index.html",
+    "main.c45f84db.css.map": "/function-over-form/static/css/main.c45f84db.css.map",
+    "main.a48877ec.js.map": "/function-over-form/static/js/main.a48877ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c45f84db.css",
+    "static/js/main.a48877ec.js"
+  ]
+}
